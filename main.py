@@ -11,7 +11,6 @@ header = {
     "x-app-id": APP_ID,
     "x-app-key": APP_KEY
 }
-gfbbfj
 info = {
     "query": input("what exercise you did today?: "),
     "gender": "male",
